@@ -55,30 +55,36 @@
 
 ## Featured Projects
 
-**GrowEasy CRM CSV Importer** - AI-powered CSV importer mapping leads from arbitrary column layouts into a fixed CRM schema, using an LLM to infer field meaning from header + value shape. Resilient batched pipeline with retry logic and strict enum validation.
-[Live Demo](https://groweasy-csv-importer-mocha.vercel.app/) - Next.js, TypeScript, LLM (OpenRouter), Tailwind CSS
+### 🔹 GrowEasy CRM CSV Importer
+AI-powered CSV importer mapping leads from arbitrary column layouts into a fixed CRM schema, using an LLM to infer field meaning from header + value shape. Resilient batched pipeline with retry logic and strict enum validation.
 
-**CloudShare** - Full-stack cloud storage platform, JWT-secured REST APIs, CDN-backed retrieval (~40% faster loads), third-party payment integration. Independently diagnosed and fixed a production JVM crash.
-[Live Demo](https://cloudshare1.netlify.app/) - Spring Boot, React.js, MongoDB, JWT
+`Next.js` `TypeScript` `LLM (OpenRouter)` `Tailwind CSS`
 
-**Payment Orchestrator** - Backend payment engine: 24-state finite-state machine, per-gateway circuit breakers (under 2s failover), HMAC-verified idempotent webhook pipeline, 217 passing tests across 23 endpoints.
-Java, Spring Boot, PostgreSQL, Docker, Testcontainers
+🔗 [Live Demo](https://groweasy-csv-importer-mocha.vercel.app/) &nbsp;|&nbsp; 📦 [Source Code](https://github.com/imSandeep-dev/groweasy-csv-importer)
+
+<br>
+
+### 🔹 CloudShare
+Full-stack cloud storage platform with JWT-secured REST APIs, CDN-backed retrieval (~40% faster loads), and third-party payment integration. Independently diagnosed and fixed a production JVM crash.
+
+`Spring Boot` `React.js` `MongoDB` `JWT`
+
+🔗 [Live Demo](https://cloudshare1.netlify.app/) &nbsp;|&nbsp; 📦 [Backend](https://github.com/imSandeep-dev/CloudShare-backend) &nbsp;|&nbsp; 📦 [Frontend](https://github.com/imSandeep-dev/CloudShare-frontend)
+
+<br>
+
+### 🔹 Payment Orchestrator
+Backend payment engine featuring a 24-state finite-state machine, per-gateway circuit breakers (under 2s failover), and an HMAC-verified idempotent webhook pipeline. Validated with 217 passing tests across 23 endpoints.
+
+`Java` `Spring Boot` `PostgreSQL` `Docker` `Testcontainers`
+
+📦 [Source Code](https://github.com/imSandeep-dev/payment-orchestrator)
 
 ---
 
 ## All Repositories
 <!-- This section auto-updates daily via GitHub Actions - see .github/workflows/repo-list.yml -->
 <!--START_SECTION:repos-->
-
-| Repository | Description | Language | Stars |
-|---|---|---|---|
-| [imSandeep-dev](https://github.com/imSandeep-dev/imSandeep-dev) | - | - | 0 |
-| [payment-orchestrator](https://github.com/imSandeep-dev/payment-orchestrator) | - | Java | 1 |
-| [CloudShare-frontend](https://github.com/imSandeep-dev/CloudShare-frontend) | - | JavaScript | 0 |
-| [CloudShare-backend](https://github.com/imSandeep-dev/CloudShare-backend) | - | Java | 0 |
-| [groweasy-csv-importer](https://github.com/imSandeep-dev/groweasy-csv-importer) | - | TypeScript | 0 |
-| [Resume-builder](https://github.com/imSandeep-dev/Resume-builder) | - | JavaScript | 0 |
-
 <!--END_SECTION:repos-->
 
 ---
