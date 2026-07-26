@@ -69,16 +69,6 @@ Java, Spring Boot, PostgreSQL, Docker, Testcontainers
 ## All Repositories
 <!-- This section auto-updates daily via GitHub Actions - see .github/workflows/repo-list.yml -->
 <!--START_SECTION:repos-->
-
-| Repository | Description | Language | Stars |
-|---|---|---|---|
-| [imSandeep-dev](https://github.com/imSandeep-dev/imSandeep-dev) | - | - | 0 |
-| [payment-orchestrator](https://github.com/imSandeep-dev/payment-orchestrator) | - | Java | 1 |
-| [CloudShare-frontend](https://github.com/imSandeep-dev/CloudShare-frontend) | - | JavaScript | 0 |
-| [CloudShare-backend](https://github.com/imSandeep-dev/CloudShare-backend) | - | Java | 0 |
-| [groweasy-csv-importer](https://github.com/imSandeep-dev/groweasy-csv-importer) | - | TypeScript | 0 |
-| [Resume-builder](https://github.com/imSandeep-dev/Resume-builder) | - | JavaScript | 0 |
-
 <!--END_SECTION:repos-->
 
 ---
@@ -100,6 +90,22 @@ Java, Spring Boot, PostgreSQL, Docker, Testcontainers
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imSandeep-dev&theme=react-dark" width="90%"/>
+</p>
+
+---
+
+## Metrics
+<!-- Self-hosted via .github/workflows/metrics.yml - runs entirely inside this repo's own GitHub Actions, no external server dependency -->
+<p align="center">
+  <img src="./metrics.svg" width="100%"/>
+</p>
+
+---
+
+## Contribution Snake
+<!-- Generated automatically by .github/workflows/snake.yml -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imSandeep-dev/imSandeep-dev/output/github-contribution-grid-snake.svg" width="90%"/>
 </p>
 
 ---
