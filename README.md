@@ -9,7 +9,6 @@
   <a href="https://linkedin.com/in/sandeep-danda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:dandasandeep098@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://leetcode.com/u/DandaSandeep"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <img src="https://komarev.com/ghpvc/?username=imSandeep-dev&style=for-the-badge&color=2E9EF7" alt="Profile Views">
 </p>
 
 ---
