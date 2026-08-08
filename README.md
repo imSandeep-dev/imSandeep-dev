@@ -87,7 +87,7 @@ Backend payment engine featuring a 24-state finite-state machine, per-gateway ci
 
 | Repository | Description | Language | Stars |
 |---|---|---|---|
-| [debe-tech-intern-assessment](https://github.com/imSandeep-dev/debe-tech-intern-assessment) | - | - | 0 |
+| [debe-tech-intern-assessment](https://github.com/imSandeep-dev/debe-tech-intern-assessment) | - | TypeScript | 0 |
 | [imSandeep-dev](https://github.com/imSandeep-dev/imSandeep-dev) | - | - | 0 |
 | [payment-orchestrator](https://github.com/imSandeep-dev/payment-orchestrator) | Multi-gateway payment orchestration engine with circuit breakers, idempotency, and webhook verification. | Java | 1 |
 | [CloudShare-frontend](https://github.com/imSandeep-dev/CloudShare-frontend) | React.js frontend for CloudShare — a secure cloud file storage platform. | JavaScript | 1 |
