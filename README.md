@@ -87,6 +87,7 @@ Backend payment engine featuring a 24-state finite-state machine, per-gateway ci
 
 | Repository | Description | Language | Stars |
 |---|---|---|---|
+| [hertzworkz-dashboard](https://github.com/imSandeep-dev/hertzworkz-dashboard) | - | JavaScript | 0 |
 | [debe-tech-intern-assessment](https://github.com/imSandeep-dev/debe-tech-intern-assessment) | - | TypeScript | 0 |
 | [imSandeep-dev](https://github.com/imSandeep-dev/imSandeep-dev) | - | - | 0 |
 | [payment-orchestrator](https://github.com/imSandeep-dev/payment-orchestrator) | Multi-gateway payment orchestration engine with circuit breakers, idempotency, and webhook verification. | Java | 1 |
