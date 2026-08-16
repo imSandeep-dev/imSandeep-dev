@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sandeep Danda</h1>
-<h3 align="center">Aspiring Software Engineer | Java - TypeScript - AI/LLM Integration</h3>
+<h3 align="center">Aspiring Software Engineer | Java - Spring Boot - AI/LLM Integration</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+systems+end-to-end;Java+%2B+Spring+Boot+%7C+TypeScript+%2B+Next.js;400%2B+DSA+problems+solved+on+LeetCode;Final-year+B.Tech+Student+(Lateral+Entry)" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 
 ## About Me
 
-- Final-year **B.Tech (Lateral Entry)** student at ANITS, graduating 2027
+- Final-year **B.Tech** student at ANITS, graduating 2027
 - I independently design, build, and ship **production-style systems** end-to-end - schema, API, deployed UI
 - Strong **Data Structures & Algorithms** foundation - 400+ problems solved on LeetCode
 - Debugged and fixed a real production JVM memory crash independently, without external guidance
