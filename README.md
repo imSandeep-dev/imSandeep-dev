@@ -117,9 +117,9 @@ Backend payment engine featuring a 24-state finite-state machine, per-gateway ci
   <img src="https://streak-stats.demolab.com/?user=imSandeep-dev&theme=default" width="60%"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imSandeep-dev&theme=react-dark" width="90%"/>
-</p>
+</p> -->
 
 ---
 
