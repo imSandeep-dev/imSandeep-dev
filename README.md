@@ -87,6 +87,7 @@ Backend payment engine featuring a 24-state finite-state machine, per-gateway ci
 
 | Repository | Description | Language | Stars |
 |---|---|---|---|
+| [1fi-marketplace-assignment](https://github.com/imSandeep-dev/1fi-marketplace-assignment) | - | JavaScript | 0 |
 | [imSandeep-dev](https://github.com/imSandeep-dev/imSandeep-dev) | - | - | 0 |
 | [RecoveryAgent](https://github.com/imSandeep-dev/RecoveryAgent) | - | - | 0 |
 | [ecommerce-crud-app](https://github.com/imSandeep-dev/ecommerce-crud-app) | - | JavaScript | 0 |
