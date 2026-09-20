@@ -17,7 +17,7 @@
 
 - Final-year **B.Tech** student at ANITS, graduating 2027
 - I independently design, build, and ship **production-style systems** end-to-end - schema, API, deployed UI
-- Strong **Data Structures & Algorithms** foundation - 400+ problems solved on LeetCode
+- Strong **Data Structures & Algorithms** foundation - 420+ problems solved on LeetCode
 - Debugged and fixed a real production JVM memory crash independently, without external guidance
 - Currently exploring **AI/LLM-powered application development**
 - Open to **SDE internships, full-stack roles, and backend engineering opportunities**
